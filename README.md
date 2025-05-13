@@ -26,4 +26,4 @@ With this, the project includes both classic pytest tests and modern BDD-style t
 ## Example Test Run
 
 The following image shows the BDD Selenium test successfully running and verifying the UI of a todo web application.
-![Selenium Test Example](tests/UI_BDD_Screenshot.png)
+![Selenium UI BDD Test](assets/UI_BDD_Screenshot.png)
